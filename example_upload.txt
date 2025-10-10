@@ -1,0 +1,16 @@
+This is an example file demonstrating how to upload files to a GitHub repository.
+
+File Name: example_upload.txt
+Date Created: 2025-10-10
+Purpose: Demonstration file for the upload guide
+
+Content:
+--------
+This file was created to show users how to add new files to the extracct repository.
+
+To create a similar file:
+1. Create a new text file on your local computer
+2. Add your content
+3. Follow the steps in UPLOAD_GUIDE.md to add it to the repository
+
+For more information about this project, see README.md.
